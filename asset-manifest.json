@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/pdylan/static/css/main.css",
-    "main.js": "/pdylan/static/js/main.js",
+    "main.css": "/pdylan/static/css/main.34c64cf7.css",
+    "main.js": "/pdylan/static/js/main.44af5fae.js",
     "static/js/453.8fae92ea.chunk.js": "/pdylan/static/js/453.8fae92ea.chunk.js",
-    "static/media/logo.svg": "/pdylan/static/media/logo.svg",
     "index.html": "/pdylan/index.html",
-    "main.f855e6bc.css.map": "/pdylan/static/css/main.css.map",
-    "main.39c4807d.js.map": "/pdylan/static/js/main.js.map",
+    "main.34c64cf7.css.map": "/pdylan/static/css/main.34c64cf7.css.map",
+    "main.44af5fae.js.map": "/pdylan/static/js/main.44af5fae.js.map",
     "453.8fae92ea.chunk.js.map": "/pdylan/static/js/453.8fae92ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.css",
-    "static/js/main.js"
+    "static/css/main.34c64cf7.css",
+    "static/js/main.44af5fae.js"
   ]
 }
